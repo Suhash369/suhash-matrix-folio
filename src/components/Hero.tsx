@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { MapPin, Linkedin, Mail, Github } from "lucide-react";
+import { MapPin, Linkedin, Mail, Github, Download } from "lucide-react";
 
 const techTags = [
   "IoT",
@@ -51,6 +51,16 @@ export const Hero = () => {
             <a href="#contact">
               <Mail className="w-4 h-4 mr-2" />
               Contact Me
+            </a>
+          </Button>
+          <Button
+            size="lg"
+            className="bg-accent hover:bg-accent/90 glow-accent"
+            asChild
+          >
+            <a href="/suhash_resume.pdf" download="Suhash_M_Resume.pdf">
+              <Download className="w-4 h-4 mr-2" />
+              Download Resume
             </a>
           </Button>
           <Button
