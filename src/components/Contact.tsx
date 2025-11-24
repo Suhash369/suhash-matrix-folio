@@ -51,7 +51,7 @@ export const Contact = () => {
                     asChild
                   >
                     <a
-                      href="https://linkedin.com"
+                      href="https://www.linkedin.com/in/suhash-mahadeva-891130375"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -65,7 +65,7 @@ export const Contact = () => {
                     asChild
                   >
                     <a
-                      href="https://github.com"
+                      href="https://github.com/Suhash369"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
