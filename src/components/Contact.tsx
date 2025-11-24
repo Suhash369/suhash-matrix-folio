@@ -35,7 +35,7 @@ export const Contact = () => {
                     </div>
                     <div>
                       <p className="text-sm text-muted-foreground">Email</p>
-                      <p className="font-medium">suhashm@example.com</p>
+                      <p className="font-medium">suhashsugi369@gmail.com</p>
                     </div>
                   </div>
                 </div>
@@ -78,7 +78,7 @@ export const Contact = () => {
                     className="border-accent text-accent hover:bg-accent/10"
                     asChild
                   >
-                    <a href="mailto:suhashm@example.com">
+                    <a href="mailto:suhashsugi369@gmail.com">
                       <Mail className="w-5 h-5" />
                     </a>
                   </Button>
@@ -98,7 +98,7 @@ export const Contact = () => {
                 className="bg-primary hover:bg-primary/90 glow-primary"
                 asChild
               >
-                <a href="mailto:suhashm@example.com">
+                <a href="mailto:suhashsugi369@gmail.com">
                   Send Message
                 </a>
               </Button>
