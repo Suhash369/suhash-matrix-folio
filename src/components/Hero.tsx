@@ -27,7 +27,7 @@ export const Hero = () => {
 
         {/* Name */}
         <h1 className="text-5xl md:text-7xl font-bold mb-4 gradient-text">
-          Suhash M
+          SUHASH MAHADEVA
         </h1>
 
         {/* Title */}
